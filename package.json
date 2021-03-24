@@ -1,4 +1,5 @@
 {
+  "homepage": "http://ahmedsamir96m.github.io/01151384217",
   "name": "maketune",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +8,7 @@
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
     "chart.js": "^2.9.4",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.2",
     "react-chartjs-2": "^2.11.1",
     "react-dom": "^17.0.2",
